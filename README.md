@@ -72,12 +72,15 @@ Copy
 
 ## **Citation | Αναφορά σε Εργασίες**
 ```bibtex
-@software{xenopoulos_dialectical_2023,
+bibtex
+
+Copy
+@software{xenopoulos_dialectical_2025,
   author = {Xenopoulou, Katerina and Xenopoulos, Epameinondas},
   title = {Xenopoulos Dialectical Algorithm (XDA)},
-  year = {2023},
+  year = {2025},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.1234567},
+  doi = {10.5281/zenodo.14844175},
   license = {XDAL-1.0}
 }
 This project is licensed under the Xenopoulos Dialectical Algorithm License (XDAL).  
